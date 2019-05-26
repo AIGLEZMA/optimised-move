@@ -1,6 +1,5 @@
 # Optimised Move
-
-Useful NametagAPI that can be implemented into Bukkit and Spigot plugins. 48 character support & works with all versions.
+Optimised Move adds new events to make the PlayerMoveEvent more optimised
 
 * Has multiple events
 * Easy to Use
