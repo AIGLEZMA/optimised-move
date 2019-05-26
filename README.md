@@ -5,6 +5,15 @@ Optimised Move adds new events to make the PlayerMoveEvent more optimised
 * Easy to Use
 * Free + Open Source
 
+# Events
+* PlayerAimChangeEvent
+* PlayerBlockChangeEvent
+* PlayerPitchChangeEvent
+* PlayerXChangeEvent
+* PlayerYChangeEvent
+* PlayerYawChangeEvent
+* PlayerZChangeEvent
+
 # Todo
 * Nothing
 
